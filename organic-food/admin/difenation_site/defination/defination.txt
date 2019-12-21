@@ -1,0 +1,5 @@
+This site name=> alternative medicen using php , mysqli and bootstrap 4
+Database name: organic-food
+To access the control panel we use
+User Name: eslam@gmail.com
+And a secret number: 123
